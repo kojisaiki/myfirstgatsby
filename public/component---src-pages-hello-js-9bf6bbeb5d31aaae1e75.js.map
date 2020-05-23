@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/hello.js"],"names":["HelloPage"],"mappings":"2FAAA,gCAIeA,UAFG,kBAAO","file":"component---src-pages-hello-js-9bf6bbeb5d31aaae1e75.js","sourcesContent":["import React from 'react';\r\n\r\nconst HelloPage = () => (<div>Hello</div>);\r\n\r\nexport default HelloPage;"],"sourceRoot":""}
