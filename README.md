@@ -1,4 +1,8 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
+Start with https://docs.microsoft.com/ja-jp/learn/modules/create-deploy-static-webapp-gatsby-app-service/
+
+---
+
 <p align="center">
   <a href="https://www.gatsbyjs.org">
     <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
